@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Иришка\\Desktop\\Final task\\taskINvs\\taskINvs.csproj": {}
+    "C:\\Users\\Иришка\\Desktop\\Final task\\Final-work\\taskINvs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Иришка\\Desktop\\Final task\\taskINvs\\taskINvs.csproj": {
+    "C:\\Users\\Иришка\\Desktop\\Final task\\Final-work\\taskINvs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Иришка\\Desktop\\Final task\\taskINvs\\taskINvs.csproj",
+        "projectUniqueName": "C:\\Users\\Иришка\\Desktop\\Final task\\Final-work\\taskINvs.csproj",
         "projectName": "taskINvs",
-        "projectPath": "C:\\Users\\Иришка\\Desktop\\Final task\\taskINvs\\taskINvs.csproj",
+        "projectPath": "C:\\Users\\Иришка\\Desktop\\Final task\\Final-work\\taskINvs.csproj",
         "packagesPath": "C:\\Users\\Иришка\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Иришка\\Desktop\\Final task\\taskINvs\\obj\\",
+        "outputPath": "C:\\Users\\Иришка\\Desktop\\Final task\\Final-work\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Иришка\\AppData\\Roaming\\NuGet\\NuGet.Config"
